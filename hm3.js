@@ -19,4 +19,4 @@ function removeMember(name) {
   return user;
 }
 console.log(removeMember("jalili"));
-
+console.log(listekarmandan);
